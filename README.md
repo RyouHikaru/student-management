@@ -17,3 +17,6 @@ Repository: https://github.com/RyouHikaru/student-management-server
 
 This project is part of an assessment in a Techademy course,
 **Hands-On Designing Angular Web Application Architecture**.
+
+### Project Preview:
+![Preview](/screenshot/view-all-students.png)
